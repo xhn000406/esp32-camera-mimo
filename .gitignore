@@ -1,0 +1,20 @@
+# ESP-IDF generated output
+build/
+work/
+managed_components/
+sdkconfig
+sdkconfig.old
+
+# Project-local toolchains and downloads
+.tools/
+
+# Runtime logs and editor/OS files
+screenlog.*
+.DS_Store
+.vscode/
+.idea/
+*.log
+
+# Host-test binaries
+/tests/host/test_*
+!/tests/host/test_*.c

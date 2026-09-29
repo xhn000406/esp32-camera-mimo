@@ -1,0 +1,4 @@
+interface:
+  display_name: "ESP32-S3 猫咪摄像头开发"
+  short_description: "从摄像头原型、稳定性验证到量产硬件的分阶段开发指南"
+  default_prompt: "使用 $developing-esp32-s3-cat-camera 带我完成当前阶段，并给出验证步骤和验收记录。"
